@@ -332,6 +332,4 @@ If you found this project helpful,
 
 This project is licensed under the MIT License.
 
----
 
-**Built with ❤️ using React, FastAPI, Machine Learning, and Data Analytics.**
